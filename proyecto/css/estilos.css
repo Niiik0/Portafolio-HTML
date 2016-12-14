@@ -64,3 +64,36 @@
 	padding: .5em;
 	text-transform: uppercase;
 }
+
+.habilidad--proyecto{
+	background-color: #29597C
+	color: #fff;
+	display: inline-block;
+	font-size: 12px;
+	padding: .5em;
+	text-transform: uppercase;
+}
+
+/*Proyectos*/
+
+.proyectos{
+	margin-left: 350px;
+	padding: 1em;
+
+	dispay: table;
+}
+
+.proyecto{
+	display: table-cell;
+	padding: 1em;
+	width: 50%;
+}
+
+.proyecto__imagen{
+	width: 100%;
+}
+
+.proyecto__titulo{
+	color: #29597C;
+	font-size: 18px;
+}
